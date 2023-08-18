@@ -1,0 +1,229 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" },
+        { "VTOY_SORT_CASE_SENSITIVE": "2" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISOs" },
+        { "VTOY_DEFAULT_KBD_LAYOUT": "SPANISH" }
+    ],
+    "theme": {
+        "file": "/ventoy/themes/honeycomb/theme.txt",
+        "gfxmode": "1600x900",
+        "ventoy_color": "#d0e764"
+    },
+    "menu_class": [
+        {
+            "dir": "Alma_Linux",
+            "class": "alma_linux"
+        },
+        {
+            "dir": "CentOS",
+            "class": "centos"
+        },
+        {
+            "dir": "Clonezilla",
+            "class": "clonezilla"
+        },
+        {
+            "dir": "Debian",
+            "class": "debian"
+        },
+        {
+            "dir": "FreeNAS",
+            "class": "freenas"
+        },
+        {
+            "dir": "Hiren_Boot",
+            "class": "hbcd"
+        },
+        {
+            "dir": "Kali_Linux",
+            "class": "kali"
+        },
+        {
+            "dir": "Linux_Lite",
+            "class": "linux_lite"
+        },
+        {
+            "dir": "Linux_Mint",
+            "class": "linux_mint"
+        },
+        {
+            "dir": "Manjaro",
+            "class": "manjaro"
+        },
+        {
+            "dir": "Nethserver",
+            "class": "nethserver"
+        },
+        {
+            "dir": "OpenFile",
+            "class": "openfiler"
+        },
+        {
+            "key": "Openmediavault",
+            "class": "omv"
+        },
+        {
+            "dir": "Proxmox",
+            "class": "proxmoxve"
+        },
+        {
+            "dir": "RedHat",
+            "class": "redhat"
+        },
+        {
+            "dir": "Rocky_Linux",
+            "class": "roky_linux"
+        },
+        {
+            "dir": "Rockstor",
+            "class": "rockstor"
+        },
+        {
+            "dir": "Ubuntu",
+            "class": "ubuntu"
+        },
+        {
+            "dir": "VeeamBackup",
+            "class": "veeambkp"
+        },
+        {
+            "dir": "VMware",
+            "class": "vmware"
+        },
+        {
+            "dir": "Windows",
+            "class": "windows10"
+        },
+        {
+            "dir": "Zentyal",
+            "class": "zentyal"
+        },
+        
+        {
+            "key": "AlmaLinux",
+            "class": "alma_linux"
+        },
+        {
+            "key": "CentOS",
+            "class": "centos"
+        },
+        {
+            "key": "clonezilla-",
+            "class": "clonezilla"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },        
+        {
+            "key": "FreeNAS-",
+            "class": "freenas"
+        },
+        {
+            "key": "TrueNAS-",
+            "class": "truenas"
+        },
+        {
+            "key": "HBCD_",
+            "class": "hbcd"
+        },
+        {
+            "key": "kali-linux",
+            "class": "kali"
+        },
+        {
+            "key": "linux-lite",
+            "class": "os"
+        },
+        {
+            "key": "linuxmint-",
+            "class": "linuxmint"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "nethserver",
+            "class": "nethserver"
+        },
+        {
+            "key": "openfileresa",
+            "class": "openfiler"
+        },
+        {
+            "key": "openmediavault_",
+            "class": "omv"
+        },
+        {
+            "key": "proxmox-ve",
+            "class": "proxmoxve"
+        },
+        {
+            "key": "proxmox-backup",
+            "class": "proxmoxve"
+        },
+        {
+            "key": "rhel-",
+            "class": "redhat"
+        },
+        {
+            "key": "Rocky-",
+            "class": "rocky_linux"
+        },
+        {
+            "key": "Rockstor",
+            "class": "rockstor"
+        },
+        {
+            "key": "ubuntu-",
+            "class": "ubuntu"
+        },
+        {
+            "key": "kubuntu-",
+            "class": "kubuntu"
+        },
+        {
+            "key": "lubuntu-",
+            "class": "lubuntu"
+        },
+        {
+            "key": "xubuntu-",
+            "class": "xubuntu"
+        },
+        {
+            "key": "ubuntu-mate",
+            "class": "ubuntu-mate"
+        },
+        {
+            "key": "VeeamBackup&",
+            "class": "veeambkp"
+        },
+        {
+            "key": "VMware",
+            "class": "vmware"
+        },
+        {
+            "key":"W7",
+            "class": "windows7"
+        },       
+        {
+            "key":"Win10_",
+            "class": "windows10"
+        },
+        {
+            "key":"Win_Server_",
+            "class": "windows10"
+        },
+        {
+            "key": "zentyal-",
+            "class": "zentyal"
+        },
+        {
+            "key": "Search",
+            "class": "find.efi"
+        }        
+    ]
+}
