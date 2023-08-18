@@ -1,0 +1,55 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" },
+        { "VTOY_SORT_CASE_SENSITIVE": "2" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/ISOs" }
+    ],
+    "theme": {
+        "file": "/ventoy/themes/honeycomb/theme.txt",
+        "gfxmode": "1024x768",
+        "ventoy_color": "#d0e764"
+    },
+    "menu_class": [
+        {
+            "dir": "Windows",
+            "key":"Win10",
+            "class": "windows10"
+        },       
+        {
+            "dir": "Debian",
+            "class": "debian"
+        },        
+        {
+            "key": "Kali",
+            "class": "kali"
+        },
+        {
+            "dir":"Manjaro",
+            "key": "manjaro",
+            "class": "manjaro"
+        },        
+
+        {
+            "dir": "Ubuntu",
+            "class": "ubuntu"
+        },        
+        {
+            "dit": "CentOS",
+            "class": "centos"
+        },
+        {
+            "dir": "VMware",
+            "class": "VMeare"
+        },
+        {
+            "key": "Proxmox",
+            "class": "proxmox"
+        },
+        {
+            "key": "Search",
+            "class": "find.efi"
+        }        
+    ]
+
+}
